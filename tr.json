@@ -1,0 +1,20 @@
+{
+  "test_page":"Test Sayfası",
+  "home_page":"Ana Sayfa",
+  "result_page":"Sonuç Sayfası",
+  "activity_page":"Aktivite Sayfası",
+  "profile_page":"Profil sayfası",
+  "prize_pool": "Ödül havuzu",
+  "free": "Bedava",
+  "entry": "Giriş",
+  "entries_closed": "Girişler Kapalı",
+  "slots_filled": "yuvalar dolu",
+  "your_balance": "Your Balance",
+  "add_money": "Para Ekle",
+  "withdraw_money": "Para çekmek",
+  "my_transactions": "İşlemlerim",
+  "help_support": "Yardım desteği",
+  "term_conditions": "şartlar ve koşullar",
+  "privacy_Policy": "Gizlilik Politikası",
+  "about": "hakkında"
+}

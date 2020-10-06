@@ -1,0 +1,20 @@
+{
+  "test_page":"Testing Page",
+  "home_page":"Home Page",
+  "result_page":"Result Page",
+  "activity_page":"Activity Page",
+  "profile_page":"Profile Page",
+  "prize_pool": "Prize Pool",
+  "free": "Free",
+  "entry": "Entry",
+  "entries_closed": "Entries Closed",
+  "slots_filled": "slots filled",
+  "your_balance": "Your Balance",
+  "add_money": "Add Money",
+  "withdraw_money": "Withdraw Money",
+  "my_transactions": "My Transactions",
+  "help_support": "Help / Support",
+  "term_conditions": "Terms & Conditions",
+  "privacy_Policy": "Privacy Policy",
+  "about": "About"
+}

@@ -1,0 +1,20 @@
+{
+  "test_page":"परीक्षण पृष्ठ",
+  "home_page":"मुख पृष्ठ",
+  "result_page":"परिणाम पृष्ठ",
+  "activity_page":"गतिविधि पृष्ठ",
+  "profile_page":"प्रोफ़ाइल पृष्ठ",
+  "prize_pool": "कीमत पूल",
+  "free": "नि:शुल्क",
+  "entry": "प्रवेश",
+  "entries_closed": "प्रविष्टियाँ बंद",
+  "slots_filled": "स्लॉट भरे",
+  "your_balance": "आपकी राशि",
+  "add_money": "पैसे जोड़ें",
+  "withdraw_money": "पैसा निकालना",
+  "my_transactions": "मेरे लेन-देन",
+  "help_support": "मदद / समर्थन",
+  "term_conditions": "नियम एवं शर्तें",
+  "privacy_Policy": "गोपनीयता नीति",
+  "about": "हमारे बारे में"
+}
